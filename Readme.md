@@ -3,7 +3,7 @@
 This repository contains all the necessary files and instructions to reproduce the results from the paper Metabolic modelling as a powerful tool to identify critical components of _Pneumocystis_ growth medium.
 
 ## Prerequisites
-Before reproducing the results, the Digital Lab must be installed on-premises. Detailed installation instructions can be found [here](https://constellab.community/bricks/gws_academy/latest/doc/digital-lab/overview/294e86b4-ce9a-4c56-b34e-61c9a9a8260d). Please ensure that all installation steps are completed before proceeding to run the tasks. The installation guide for gws_gena is available [here](https://github.com/Constellab/gws_gena/tree/master?tab=readme-ov-file). Please use the recommended method through the Constellab platform. Input files from tests/data can be added as digital resources in the lab.
+Before reproducing the results, the Digital Lab must be installed on-premises. Detailed installation instructions can be found [here](https://constellab.community/bricks/gws_academy/latest/doc/digital-lab/overview/294e86b4-ce9a-4c56-b34e-61c9a9a8260d). Please ensure that all installation steps are completed before proceeding to run the tasks. The installation guide for _gws_gena_ is available [here](https://github.com/Constellab/gws_gena/tree/master?tab=readme-ov-file). Please use the recommended method through the Constellab platform. Input files from tests/data can be used as digital resources in the Lab.
 
 ## How to Reproduce the results as described in Figures 5, 6, 7, and 8. 
 All necessary input files and configurations are available in this repository. The following instructions describe the tasks to run for each figure, using the Digital Lab environment.
@@ -87,7 +87,7 @@ This project provides a custom reinforcement learning (RL) environment for mediu
 
 ## Usage
 
-The installation guide for gws_gena is available [here](https://github.com/Constellab/gws_gena/tree/master?tab=readme-ov-file). Please use the recommended method through the Constellab platform. The current project can be installed in a similar way. Input files from tests/data can be added as digital resources in the lab (see [here](https://constellab.community/bricks/gws_academy/latest/doc/digital-lab/overview/294e86b4-ce9a-4c56-b34e-61c9a9a8260d)).
+The current project can be installed in a similar way to how it was done for _gws_gena_. Input files from tests/data can be used as digital resources in the Lab.
 
 ## License
 
