@@ -16,74 +16,74 @@ To reproduce the results presented in Figure 5, follow these steps:
 
 1. Run the _Transporter Adder_ task
 
-Configurations: None
-
-Inputs:
-- `network_min_model_Pmu_cyst` as a Network
-- `medium_glucose`, `medium_Merali`, or `medium_Merali_lipids` as a Medium table
+  Configurations: None
+  
+  Inputs:
+  - `network_min_model_Pmu_cyst` as a Network
+  - `medium_glucose`, `medium_Merali`, or `medium_Merali_lipids` as a Medium table
 
 2. Run the _FBA Protocol_ task
 
-Configurations:
-- Biomass optimization: `maximize`
-- Solver: `quad`
-- Relax QSSA: `true`
-- QSSA relaxation coefficient: `1`
-- Parsimony strength: `0`
-
-Inputs:
-- Output from the _Transporter Adder_ task as a Network
-- `context` as a Context
+  Configurations:
+  - Biomass optimization: `maximize`
+  - Solver: `quad`
+  - Relax QSSA: `true`
+  - QSSA relaxation coefficient: `1`
+  - Parsimony strength: `0`
+  
+  Inputs:
+  - Output from the _Transporter Adder_ task as a Network
+  - `context` as a Context
 
 ### Figure 7
 To reproduce the results shown in Figure 7, follow these steps:
 
 1. Run the _Transporter Adder_ task
 
-Configurations: None
-
-Inputs:
-- `network_min_model_Pmu_cyst` or `network_min_model_Pmu_cyst_no_SHMT` as a Network
-- `medium_Merali_no_ser_gly` as a Medium table
+  Configurations: None
+  
+  Inputs:
+  - `network_min_model_Pmu_cyst` or `network_min_model_Pmu_cyst_no_SHMT` as a Network
+  - `medium_Merali_no_ser_gly` as a Medium table
 
 2. Run the _FBA Protocol_ task
 
-Configurations:
-- Biomass optimization: `maximize`
-- Solver: `quad`
-- Relax QSSA: `true`
-- QSSA relaxation coefficient: `1`
-- Parsimony strength: `0`
-
-Inputs:
-- Output from the _Transporter Adder_ task as a Network
-- `context` as a Context
+  Configurations:
+  - Biomass optimization: `maximize`
+  - Solver: `quad`
+  - Relax QSSA: `true`
+  - QSSA relaxation coefficient: `1`
+  - Parsimony strength: `0`
+  
+  Inputs:
+  - Output from the _Transporter Adder_ task as a Network
+  - `context` as a Context
 
 ### Figures 6 & 8
 To reproduce the results for Figures 6 & 8, follow these steps:
 
 1. Run the _KOA Protocol_ task
 
-Configurations:
-- Biomass optimization: `maximize`
-- Multiple KO delimiter: `;`
-- Solver: `quad`
-- Relax QSSA: `true`
-- QSSA relaxation coefficient: `1`
-- Parsimony strength: `0`
-
-Inputs:
-- `network_min_model_Pmu_cyst_Merali` as a Network
-- `context` as a Context
-- `ko_Merali` as a KO table
+  Configurations:
+  - Biomass optimization: `maximize`
+  - Multiple KO delimiter: `;`
+  - Solver: `quad`
+  - Relax QSSA: `true`
+  - QSSA relaxation coefficient: `1`
+  - Parsimony strength: `0`
+  
+  Inputs:
+  - `network_min_model_Pmu_cyst_Merali` as a Network
+  - `context` as a Context
+  - `ko_Merali` as a KO table
 
 2. Run the _KOA Results Extractor_ task
 
-Configurations:
-- Fluxes to extract: `network_Biomass`
-
-Inputs:
-- Output from the _KOA Protocol_ task as a KOA result tables
+  Configurations:
+  - Fluxes to extract: `network_Biomass`
+  
+  Inputs:
+  - Output from the _KOA Protocol_ task as a KOA result tables
 
 ## How to reproduce the results on medium optimisation as described in Section _Growth medium optimisation_ and Table 2
 All necessary input files and configurations are available in this repository. The following instructions describe the tasks to run using the digital lab environment.
@@ -99,13 +99,13 @@ To reproduce the results on medium optimisation:
 
 Run the _MinimalMedium_ task
 
-Configurations:
-- Number of iterations: `30000`
-
-Inputs:
-- `network_min_model_Pmu_cyst` as a Network
-- `context` as a Context
-- `medium_Merali` as a Medium table
+  Configurations:
+  - Number of iterations: `30000`
+  
+  Inputs:
+  - `network_min_model_Pmu_cyst` as a Network
+  - `context` as a Context
+  - `medium_Merali` as a Medium table
 
 ## License
 This is licensed under the GNU General Public License v3.0.
