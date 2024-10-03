@@ -22,11 +22,11 @@ Inputs:
 2. Run the _FBA Protocol_ task
 
 Configurations:
-Biomass optimization: `maximize`
-Solver: `quad`
-Relax QSSA: `true`
-QSSA relaxation coefficient: `1`
-Parsimony strength: `0`
+- Biomass optimization: `maximize`
+- Solver: `quad`
+- Relax QSSA: `true`
+- QSSA relaxation coefficient: `1`
+- Parsimony strength: `0`
 
 Inputs:
 - Output from the _Transporter Adder_ task as a Network
@@ -46,11 +46,11 @@ Inputs:
 2. Run the _FBA Protocol_ task
 
 Configurations:
-Biomass optimization: `maximize`
-Solver: `quad`
-Relax QSSA: `true`
-QSSA relaxation coefficient: `1`
-Parsimony strength: `0`
+- Biomass optimization: `maximize`
+- Solver: `quad`
+- Relax QSSA: `true`
+- QSSA relaxation coefficient: `1`
+- Parsimony strength: `0`
 
 Inputs:
 - Output from the _Transporter Adder_ task as a Network
@@ -62,12 +62,12 @@ To reproduce the results for Figures 6 & 8, follow these steps:
 1. Run the _KOA Protocol_ task
 
 Configurations:
-Biomass optimization: `maximize`
-Multiple KO delimiter: `;`
-Solver: `quad`
-Relax QSSA: `true`
-QSSA relaxation coefficient: `1`
-Parsimony strength: `0`
+- Biomass optimization: `maximize`
+- Multiple KO delimiter: `;`
+- Solver: `quad`
+- Relax QSSA: `true`
+- QSSA relaxation coefficient: `1`
+- Parsimony strength: `0`
 
 Inputs:
 - `network_min_model_Pmu_cyst_Merali` as a Network
@@ -77,10 +77,10 @@ Inputs:
 2. Run the _KOA Results Extractor_ task
 
 Configurations:
-Fluxes to extract: `network_Biomass`
+- Fluxes to extract: `network_Biomass`
 
 Inputs:
-Output from the _KOA Protocol_ task as a KOA result tables
+- Output from the _KOA Protocol_ task as a KOA result tables
 
 ## Medium Optimisation Reinforcement Learning Environment
 
