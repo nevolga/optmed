@@ -11,14 +11,14 @@ All necessary input files and configurations are available in this repository. T
 ### Figure 5
 To reproduce the results presented in Figure 5, follow these steps:
 
-1. Run the _Transporter Adder_ Task
+1. Run the _Transporter Adder_ task
 
 Configurations: None
 Inputs:
 - `network_min_model_Pmu_cyst` as a Network
 - `medium_glucose`, `medium_Merali`, or `medium_Merali_lipids` as a Medium table
 
-2. Run the _FBA Protocol_ Task
+2. Run the _FBA Protocol_ task
 
 Configurations:
 Biomass optimization: `maximize`
@@ -33,14 +33,14 @@ Inputs:
 ### Figure 7
 To reproduce the results shown in Figure 7, follow these steps:
 
-1. Run the _Transporter Adder_ Task
+1. Run the _Transporter Adder_ task
 
 Configurations: None
 Inputs:
 - `network_min_model_Pmu_cyst` or `network_min_model_Pmu_cyst_no_SHMT` as a Network
 - `medium_Merali_no_ser_gly` as a Medium table
 
-2. Run the _FBA Protocol_ Task
+2. Run the _FBA Protocol_ task
 
 Configurations:
 Biomass optimization: `maximize`
@@ -55,7 +55,7 @@ Inputs:
 ### Figures 6 & 8
 To reproduce the results for Figures 6 & 8, follow these steps:
 
-1. Run the _KOA Protocol_ Task
+1. Run the _KOA Protocol_ task
 
 Configurations:
 Biomass optimization: `maximize`
@@ -69,7 +69,7 @@ Inputs:
 - `context` as a Context
 - `ko_Merali` as a KO table
 
-2. Run the _KOA Results Extractor_ Task
+2. Run the _KOA Results Extractor_ task
 
 Configurations:
 Fluxes to extract: `network_Biomass`
