@@ -86,7 +86,7 @@ To reproduce the results for Figures 6 & 8, follow these steps:
   - Output from the _KOA Protocol_ task as a KOA result tables
 
 ## How to reproduce the results on medium optimisation as described in Section _Growth medium optimisation_ and Table 2
-All necessary input files and configurations are available in this repository. The following instructions describe the tasks to run using the digital lab environment.
+All necessary input files and configurations are available in this repository. The following instructions describe a custom task to run using the digital lab environment.
 
 ### Reinforcement Learning Environment
 This is a custom reinforcement learning (RL) environment for medium optimisation using the Gym interface. The biomass computation is performed as implemented in the [gws_gena](https://github.com/Constellab/gws_gena) library developed by the [Constellab](https://constellab.io/). The environment includes two main components:
