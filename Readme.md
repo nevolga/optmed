@@ -1,5 +1,4 @@
 # Reproducing results from the paper "Metabolic modelling as a powerful tool to identify critical components of _Pneumocystis_ growth medium"
-
 This repository contains all the necessary files and instructions to reproduce the results from the paper "Metabolic modelling as a powerful tool to identify critical components of _Pneumocystis_ growth medium".
 
 ## Prerequisites
@@ -82,19 +81,27 @@ Configurations:
 Inputs:
 - Output from the _KOA Protocol_ task as a KOA result tables
 
-## Medium Optimisation Reinforcement Learning Environment
+## How to reproduce the results on medium optimisation as described in Section _Growth medium optimisation_ and Table 2
+All necessary input files and configurations are available in this repository. The following instructions describe the tasks to run using the digital lab environment.
 
-### Overview
+### Reinforcement Learning Environment
+This is a custom reinforcement learning (RL) environment for medium optimisation using the Gym interface. The biomass computation is performed as implemented in the [gws_gena](https://github.com/Constellab/gws_gena) library developed by the [Constellab](https://constellab.io/). The environment includes two main components:
 
-This project provides a custom reinforcement learning (RL) environment for medium optimisation using the Gym interface. The biomass computation is performed as implemented in the [gws_gena](https://github.com/Constellab/gws_gena) library for the [Constellab](https://constellab.io/). The project includes two main components:
-
-1. `biomass_gym_env.py`: Defines the custom Gym environment, BiomassEnv, for medium optimisation.
-2. `minimal_medium.py`: The MinimalMedium class is implemented as a task that can be run via Constellab UI. MinimalMedium employes the PPO algorithm (the implementation from [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)) to interact with BiomassEnv and find the minimal irreducible subset of nutrients from the initial medium without dropping the biomass value.
+1. `biomass_gym_env.py`: defines the custom Gym environment, BiomassEnv, for medium optimisation.
+2. `minimal_medium.py`: the MinimalMedium class is implemented as a task that can be run via Constellab UI. MinimalMedium employes the PPO algorithm (the implementation from [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)) to interact with BiomassEnv and find the minimal irreducible subset of nutrients from the initial medium without dropping the biomass value.
 
 ### Usage
+To reproduce the results on medium optimisation:
 
-The current project can be installed in a similar way to how it was done for _gws_gena_. Input files from tests/data can be used as digital resources in the Lab.
+Run the _MinimalMedium_ task
+
+Configurations:
+- Number of iterations: `300000`
+
+Inputs:
+- `network_min_model_Pmu_cyst` as a Network
+- `context` as a Context
+- `medium_Merali` as a Medium table
 
 ## License
-
 This is licensed under the GNU General Public License v3.0.
