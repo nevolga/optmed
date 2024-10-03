@@ -1,0 +1,156 @@
+id,name_column
+"network_(6Z,9Z,12Z,15Z)-octadecatetraenoate_ex;network_(6Z,9Z,12Z,15Z)-octadecatetraenoate_env","(6Z,9Z,12Z,15Z)-octadecatetraenoate"
+"network_(E,E)-bilirubin_ex;network_(E,E)-bilirubin_env","(E,E)-bilirubin"
+network_(R)-lactate_ex;network_(R)-lactate_env,(R)-lactate
+network_(R)-pantothenate_ex;network_(R)-pantothenate_env,(R)-pantothenate
+network_(S)-malate(2-)_ex;network_(S)-malate(2-)_env,(S)-malate(2-)
+"network_1,4-butanediammonium_ex;network_1,4-butanediammonium_env","1,4-butanediammonium"
+network_1-methyladenosine_ex;network_1-methyladenosine_env,1-methyladenosine
+network_1-stearoyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine_ex;network_1-stearoyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine_env,1-stearoyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine
+network_10-heptadecenoate_ex;network_10-heptadecenoate_env,10-heptadecenoate
+network_10-nonadecenoate_ex;network_10-nonadecenoate_env,10-nonadecenoate
+network_13-HODE_ex;network_13-HODE_env,13-HODE
+network_16-hydroxyhexadecanoate_ex;network_16-hydroxyhexadecanoate_env,16-hydroxyhexadecanoate
+network_2-aminoadipic acid_ex;network_2-aminoadipic acid_env,2-aminoadipic acid
+network_2-hydroxy-4-methylvaleric acid_ex;network_2-hydroxy-4-methylvaleric acid_env,2-hydroxy-4-methylvaleric acid
+network_2-hydroxyglutaric acid_ex;network_2-hydroxyglutaric acid_env,2-hydroxyglutaric acid
+network_2-oxoglutarate(2-)_ex;network_2-oxoglutarate(2-)_env,2-oxoglutarate(2-)
+network_3-(1H-indol-3-yl)propanoate_ex;network_3-(1H-indol-3-yl)propanoate_env,3-(1H-indol-3-yl)propanoate
+network_3-(3-sulfooxyphenyl)propanoic acid_ex;network_3-(3-sulfooxyphenyl)propanoic acid_env,3-(3-sulfooxyphenyl)propanoic acid
+network_3-hydroxy-3-phenylpropionate_ex;network_3-hydroxy-3-phenylpropionate_env,3-hydroxy-3-phenylpropionate
+network_3-hydroxybutyrate_ex;network_3-hydroxybutyrate_env,3-hydroxybutyrate
+network_3-hydroxydecanoate_ex;network_3-hydroxydecanoate_env,3-hydroxydecanoate
+network_3-hydroxyisobutyrate_ex;network_3-hydroxyisobutyrate_env,3-hydroxyisobutyrate
+network_4-(trimethylammonio)butanoate_ex;network_4-(trimethylammonio)butanoate_env,4-(trimethylammonio)butanoate
+network_4-acetylphenyl hydrogen sulfate_ex;network_4-acetylphenyl hydrogen sulfate_env,4-acetylphenyl hydrogen sulfate
+network_4-aminobenzoate_ex;network_4-aminobenzoate_env,4-aminobenzoate
+network_4-methyl-2-oxopentanoate_ex;network_4-methyl-2-oxopentanoate_env,4-methyl-2-oxopentanoate
+network_4-vinylphenol sulfate_ex;network_4-vinylphenol sulfate_env,4-vinylphenol sulfate
+network_D-fructofuranose_ex;network_D-fructofuranose_env,D-fructofuranose
+network_D-glucopyranose_ex;network_D-glucopyranose_env,D-glucopyranose
+network_D-mannopyranose_ex;network_D-mannopyranose_env,D-mannopyranose
+network_L-alanine zwitterion_ex;network_L-alanine zwitterion_env,L-alanine zwitterion
+network_L-argininium(1+)_ex;network_L-argininium(1+)_env,L-argininium(1+)
+network_L-asparagine zwitterion_ex;network_L-asparagine zwitterion_env,L-asparagine zwitterion
+network_L-aspartate(1-)_ex;network_L-aspartate(1-)_env,L-aspartate(1-)
+network_L-citrulline zwitterion_ex;network_L-citrulline zwitterion_env,L-citrulline zwitterion
+network_L-cysteine zwitterion_ex;network_L-cysteine zwitterion_env,L-cysteine zwitterion
+network_L-glutamate(1-)_ex;network_L-glutamate(1-)_env,L-glutamate(1-)
+network_L-glutamine zwitterion_ex;network_L-glutamine zwitterion_env,L-glutamine zwitterion
+network_L-histidine zwitterion_ex;network_L-histidine zwitterion_env,L-histidine zwitterion
+network_L-isoleucine zwitterion_ex;network_L-isoleucine zwitterion_env,L-isoleucine zwitterion
+network_L-leucine zwitterion_ex;network_L-leucine zwitterion_env,L-leucine zwitterion
+network_L-lysinium(1+)_ex;network_L-lysinium(1+)_env,L-lysinium(1+)
+network_L-methionine zwitterion_ex;network_L-methionine zwitterion_env,L-methionine zwitterion
+network_L-ornithinium(1+)_ex;network_L-ornithinium(1+)_env,L-ornithinium(1+)
+network_L-phenylalanine zwitterion_ex;network_L-phenylalanine zwitterion_env,L-phenylalanine zwitterion
+network_L-proline zwitterion_ex;network_L-proline zwitterion_env,L-proline zwitterion
+network_L-serine zwitterion_ex;network_L-serine zwitterion_env,L-serine zwitterion
+network_L-threonine zwitterion_ex;network_L-threonine zwitterion_env,L-threonine zwitterion
+network_L-tryptophan zwitterion_ex;network_L-tryptophan zwitterion_env,L-tryptophan zwitterion
+network_L-tyrosine zwitterion_ex;network_L-tyrosine zwitterion_env,L-tyrosine zwitterion
+network_L-valine zwitterion_ex;network_L-valine zwitterion_env,L-valine zwitterion
+network_Leucyl-leucine_ex;network_Leucyl-leucine_env,Leucyl-leucine
+network_Methyl-4-hydroxybenzoate_ex;network_Methyl-4-hydroxybenzoate_env,Methyl-4-hydroxybenzoate
+network_N(2)-acetylglutamine_ex;network_N(2)-acetylglutamine_env,N(2)-acetylglutamine
+network_N(alpha)-acetyl-L-arginine_ex;network_N(alpha)-acetyl-L-arginine_env,N(alpha)-acetyl-L-arginine
+network_N-(2-methylbutanoyl)glycine_ex;network_N-(2-methylbutanoyl)glycine_env,N-(2-methylbutanoyl)glycine
+network_N-acetyl-D-glucosamine_ex;network_N-acetyl-D-glucosamine_env,N-acetyl-D-glucosamine
+network_N-acetyl-L-glutamic acid_ex;network_N-acetyl-L-glutamic acid_env,N-acetyl-L-glutamic acid
+network_N-acetyl-L-methionine_ex;network_N-acetyl-L-methionine_env,N-acetyl-L-methionine
+network_N-acetyl-L-valine_ex;network_N-acetyl-L-valine_env,N-acetyl-L-valine
+network_N-acetyl-leucine_ex;network_N-acetyl-leucine_env,N-acetyl-leucine
+network_N-acetylphenylalanine_ex;network_N-acetylphenylalanine_env,N-acetylphenylalanine
+network_N-acetylputrescinium_ex;network_N-acetylputrescinium_env,N-acetylputrescinium
+network_N-carbamoyl-beta-alanine_ex;network_N-carbamoyl-beta-alanine_env,N-carbamoyl-beta-alanine
+network_N-cinnamoylglycine_ex;network_N-cinnamoylglycine_env,N-cinnamoylglycine
+network_N-methylnicotinate_ex;network_N-methylnicotinate_env,N-methylnicotinate
+network_O(4')-sulfo-L-tyrosine_ex;network_O(4')-sulfo-L-tyrosine_env,O(4')-sulfo-L-tyrosine
+network_O-acetyl-L-carnitine_ex;network_O-acetyl-L-carnitine_env,O-acetyl-L-carnitine
+network_O-butanoyl-L-carnitine_ex;network_O-butanoyl-L-carnitine_env,O-butanoyl-L-carnitine
+network_O-isobutyrylcarnitine_ex;network_O-isobutyrylcarnitine_env,O-isobutyrylcarnitine
+network_O-isovalerylcarnitine_ex;network_O-isovalerylcarnitine_env,O-isovalerylcarnitine
+network_O-methoxycatechol-O-sulphate_ex;network_O-methoxycatechol-O-sulphate_env,O-methoxycatechol-O-sulphate
+network_O-octanoylcarnitine_ex;network_O-octanoylcarnitine_env,O-octanoylcarnitine
+network_Phe-Trp_ex;network_Phe-Trp_env,Phe-Trp
+network_S-adenosyl-L-methionine zwitterion_ex;network_S-adenosyl-L-methionine zwitterion_env,S-adenosyl-L-methionine zwitterion
+network_S-sulfo-L-cysteine_ex;network_S-sulfo-L-cysteine_env,S-sulfo-L-cysteine
+network_adenosine 5'-monophosphate(2-)_ex;network_adenosine 5'-monophosphate(2-)_env,adenosine 5'-monophosphate(2-)
+"network_all-cis-5,8,11,14,17-icosapentaenoic acid_ex;network_all-cis-5,8,11,14,17-icosapentaenoic acid_env","all-cis-5,8,11,14,17-icosapentaenoic acid"
+network_alpha-aminobutyric acid_ex;network_alpha-aminobutyric acid_env,alpha-aminobutyric acid
+network_alpha-dimorphecolic acid_ex;network_alpha-dimorphecolic acid_env,alpha-dimorphecolic acid
+network_alpha-linolenate_ex;network_alpha-linolenate_env,alpha-linolenate
+network_androsterone_ex;network_androsterone_env,androsterone
+network_arachidonic acid_ex;network_arachidonic acid_env,arachidonic acid
+network_biliverdin(2-)_ex;network_biliverdin(2-)_env,biliverdin(2-)
+network_calcium(2+)_ex;network_calcium(2+)_env,calcium(2+)
+network_carbon dioxide_ex;network_carbon dioxide_env,carbon dioxide
+network_carnosine_ex;network_carnosine_env,carnosine
+network_chloride_ex;network_chloride_env,chloride
+network_cholesterol_ex;network_cholesterol_env,cholesterol
+network_choline_ex;network_choline_env,choline
+network_cis-vaccenate(1-)_ex;network_cis-vaccenate(1-)_env,cis-vaccenate(1-)
+network_corticosterone_ex;network_corticosterone_env,corticosterone
+network_cortisol_ex;network_cortisol_env,cortisol
+network_dioxygen_ex;network_dioxygen_env,dioxygen
+network_ferroheme b(2-)_ex;network_ferroheme b(2-)_env,ferroheme b(2-)
+network_folate(2-)_ex;network_folate(2-)_env,folate(2-)
+network_gamma-Glu-Ile_ex;network_gamma-Glu-Ile_env,gamma-Glu-Ile
+network_gamma-Glu-Leu_ex;network_gamma-Glu-Leu_env,gamma-Glu-Leu
+network_gamma-Glu-Tyr_ex;network_gamma-Glu-Tyr_env,gamma-Glu-Tyr
+network_gamma-glutamylthreonine_ex;network_gamma-glutamylthreonine_env,gamma-glutamylthreonine
+network_gamma-linolenate_ex;network_gamma-linolenate_env,gamma-linolenate
+network_glycine betaine_ex;network_glycine betaine_env,glycine betaine
+network_glycine zwitterion_ex;network_glycine zwitterion_env,glycine zwitterion
+network_guanidinoacetate_ex;network_guanidinoacetate_env,guanidinoacetate
+network_heptadecanoic acid_ex;network_heptadecanoic acid_env,heptadecanoic acid
+network_hexadecanoate_ex;network_hexadecanoate_env,hexadecanoate
+network_hippurate_ex;network_hippurate_env,hippurate
+network_hydrogencarbonate_ex;network_hydrogencarbonate_env,hydrogencarbonate
+network_hydrogenphosphate_ex;network_hydrogenphosphate_env,hydrogenphosphate
+network_hydron_ex;network_hydron_env,hydron
+network_hydroquinones_ex;network_hydroquinones_env,hydroquinones
+network_hypaphorine_ex;network_hypaphorine_env,hypaphorine
+network_imidazol-4-ylacetic acid_ex;network_imidazol-4-ylacetic acid_env,imidazol-4-ylacetic acid
+network_keto-phenylpyruvate_ex;network_keto-phenylpyruvate_env,keto-phenylpyruvate
+network_levoglucosan_ex;network_levoglucosan_env,levoglucosan
+network_lidocaine_ex;network_lidocaine_env,lidocaine
+network_linoleic acid_ex;network_linoleic acid_env,linoleic acid
+network_m-hydroxyhippuric acid_ex;network_m-hydroxyhippuric acid_env,m-hydroxyhippuric acid
+network_magnesium(2+)_ex;network_magnesium(2+)_env,magnesium(2+)
+network_methionine S-oxide_ex;network_methionine S-oxide_env,methionine S-oxide
+network_myo-inositol_ex;network_myo-inositol_env,myo-inositol
+network_nicotinamide_ex;network_nicotinamide_env,nicotinamide
+network_o-cresol sulfate_ex;network_o-cresol sulfate_env,o-cresol sulfate
+network_octadecanoic acid_ex;network_octadecanoic acid_env,octadecanoic acid
+network_oleic acid_ex;network_oleic acid_env,oleic acid
+network_oxalate(2-)_ex;network_oxalate(2-)_env,oxalate(2-)
+network_p-hydroxyhippuric acid_ex;network_p-hydroxyhippuric acid_env,p-hydroxyhippuric acid
+network_palmitoleic acid_ex;network_palmitoleic acid_env,palmitoleic acid
+network_phenol red_ex;network_phenol red_env,phenol red
+network_phenyl hydrogen sulfate_ex;network_phenyl hydrogen sulfate_env,phenyl hydrogen sulfate
+network_phenylacetylglycine_ex;network_phenylacetylglycine_env,phenylacetylglycine
+network_picolinate_ex;network_picolinate_env,picolinate
+network_pipecolate_ex;network_pipecolate_env,pipecolate
+network_potassium(1+)_ex;network_potassium(1+)_env,potassium(1+)
+network_pregnenolone_ex;network_pregnenolone_env,pregnenolone
+network_progesterone_ex;network_progesterone_env,progesterone
+network_propionylglycine_ex;network_propionylglycine_env,propionylglycine
+network_pyridoxal_ex;network_pyridoxal_env,pyridoxal
+network_pyrocatechol sulfate_ex;network_pyrocatechol sulfate_env,pyrocatechol sulfate
+network_pyroglutamylvaline_ex;network_pyroglutamylvaline_env,pyroglutamylvaline
+network_pyruvate_ex;network_pyruvate_env,pyruvate
+network_quinolin-2-ol_ex;network_quinolin-2-ol_env,quinolin-2-ol
+network_riboflavin(1-)_ex;network_riboflavin(1-)_env,riboflavin(1-)
+network_salicylate_ex;network_salicylate_env,salicylate
+network_sebacate(2-)_ex;network_sebacate(2-)_env,sebacate(2-)
+network_sitosterol_ex;network_sitosterol_env,sitosterol
+network_sodium(1+)_ex;network_sodium(1+)_env,sodium(1+)
+network_succinate(2-)_ex;network_succinate(2-)_env,succinate(2-)
+network_sulfate_ex;network_sulfate_env,sulfate
+network_taurine_ex;network_taurine_env,taurine
+network_tetradecanoic acid_ex;network_tetradecanoic acid_env,tetradecanoic acid
+network_thiamine(1+)_ex;network_thiamine(1+)_env,thiamine(1+)
+network_tiglylglycine_ex;network_tiglylglycine_env,tiglylglycine
+network_trans-4-hydroxy-L-proline_ex;network_trans-4-hydroxy-L-proline_env,trans-4-hydroxy-L-proline
+network_water_ex;network_water_env,water
