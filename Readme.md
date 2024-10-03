@@ -96,7 +96,7 @@ To reproduce the results on medium optimisation:
 Run the _MinimalMedium_ task
 
 Configurations:
-- Number of iterations: `300000`
+- Number of iterations: `30000`
 
 Inputs:
 - `network_min_model_Pmu_cyst` as a Network
