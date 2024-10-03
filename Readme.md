@@ -14,6 +14,7 @@ To reproduce the results presented in Figure 5, follow these steps:
 1. Run the _Transporter Adder_ task
 
 Configurations: None
+
 Inputs:
 - `network_min_model_Pmu_cyst` as a Network
 - `medium_glucose`, `medium_Merali`, or `medium_Merali_lipids` as a Medium table
@@ -26,6 +27,7 @@ Solver: `quad`
 Relax QSSA: `true`
 QSSA relaxation coefficient: `1`
 Parsimony strength: `0`
+
 Inputs:
 - Output from the _Transporter Adder_ task as a Network
 - `context` as a Context
@@ -36,6 +38,7 @@ To reproduce the results shown in Figure 7, follow these steps:
 1. Run the _Transporter Adder_ task
 
 Configurations: None
+
 Inputs:
 - `network_min_model_Pmu_cyst` or `network_min_model_Pmu_cyst_no_SHMT` as a Network
 - `medium_Merali_no_ser_gly` as a Medium table
@@ -48,6 +51,7 @@ Solver: `quad`
 Relax QSSA: `true`
 QSSA relaxation coefficient: `1`
 Parsimony strength: `0`
+
 Inputs:
 - Output from the _Transporter Adder_ task as a Network
 - `context` as a Context
@@ -64,6 +68,7 @@ Solver: `quad`
 Relax QSSA: `true`
 QSSA relaxation coefficient: `1`
 Parsimony strength: `0`
+
 Inputs:
 - `network_min_model_Pmu_cyst_Merali` as a Network
 - `context` as a Context
@@ -73,6 +78,7 @@ Inputs:
 
 Configurations:
 Fluxes to extract: `network_Biomass`
+
 Inputs:
 Output from the _KOA Protocol_ task as a KOA result tables
 
