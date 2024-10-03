@@ -3,7 +3,9 @@ This repository contains all the necessary files and instructions to reproduce t
 
 ## Prerequisites
 Before reproducing the results, a digital lab (developed by the [Constellab](https://constellab.io/)) must be created either on premises or in a cloud to run the code. Overview of the digital lab can be found [here](https://constellab.community/bricks/gws_academy/latest/doc/digital-lab/overview/294e86b4-ce9a-4c56-b34e-61c9a9a8260d). To register, use [this link](https://constellab.space/signup). Detailed installation instructions can be found [here](https://constellab.community/bricks/gws_academy/latest/doc/digital-lab/digital-lab-for-desktop/700a88e8-da5c-4e97-b6eb-86e1b26f73e4#tutoriel-en-fran%C3%A7ais-pour-installer-un-digital-lab-desktop). Please ensure that all installation steps are completed before proceeding to run the tasks.
+
 The installation guide for `gws_gena` (a [Constellab](https://constellab.io/) library developed for reconstruction and analysis of the metabolic networks) is available [here](https://github.com/Constellab/gws_gena/tree/master?tab=readme-ov-file). Please use the recommended method through the Constellab platform. Version 0.6.3 was used in this study, tag 6.3 in the code.
+
 Input files from tests/data can be used as digital resources in the Lab.
 
 ## How to reproduce the results as described in Figures 5, 6, 7, and 8. 
