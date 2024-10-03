@@ -92,7 +92,7 @@ All necessary input files and configurations are available in this repository. T
 This is a custom reinforcement learning (RL) environment for medium optimisation using the Gym interface. The biomass computation is performed as implemented in the [gws_gena](https://github.com/Constellab/gws_gena) library developed by the [Constellab](https://constellab.io/). The environment includes two main components:
 
 1. `biomass_gym_env.py`: defines the custom Gym environment, _BiomassEnv_, for medium optimisation.
-2. `minimal_medium.py`: the _MinimalMedium_ class is implemented as a task that can be run via Constellab UI. _MinimalMedium_ employes the PPO algorithm (the implementation from [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)) to interact with _BiomassEnv_ and find the minimal irreducible subset of nutrients from the initial medium without dropping the biomass value.
+2. `minimal_medium.py`: the _MinimalMedium_ class is implemented as a task that can be run via [Constellab](https://constellab.io/) user interface. _MinimalMedium_ employes the PPO algorithm (the implementation from [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)) to interact with _BiomassEnv_ and find the minimal irreducible subset of nutrients from the initial medium without dropping the biomass value.
 
 ### Usage
 To reproduce the results on medium optimisation:
